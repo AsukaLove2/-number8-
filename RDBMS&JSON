@@ -1,0 +1,4 @@
+RDBMS:SocialConmility
+   tablename1:SCinfo
+   colums:id name  age phone address
+   row:00001  zhangsan  33  112356823 china
