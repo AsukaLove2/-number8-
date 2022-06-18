@@ -1,0 +1,59 @@
+{
+  "RECORDS": [
+    {
+      "ID": "1",
+      "Name": "QQ",
+      "Age": "23",
+      "Phone": "123456",
+      "Address": "XXX",
+      "In_time": "25/2/2020 00:00:00",
+      "Out_time": "",
+      "IdentifyNumbs": "111111111",
+      "Salary": "3000"
+    },
+    {
+      "ID": "2",
+      "Name": "WW",
+      "Age": "21",
+      "Phone": "123321",
+      "Address": "XXXC",
+      "In_time": "22/3/2020 00:00:00",
+      "Out_time": "",
+      "IdentifyNumbs": "222222222",
+      "Salary": "3400"
+    },
+    {
+      "ID": "3",
+      "Name": "EE",
+      "Age": "19",
+      "Phone": "558975",
+      "Address": "SSWQ",
+      "In_time": "23/4/2019 00:00:00",
+      "Out_time": "",
+      "IdentifyNumbs": "333333333",
+      "Salary": "3100"
+    },
+    {
+      "ID": "4",
+      "Name": "RR",
+      "Age": "24",
+      "Phone": "558935",
+      "Address": "WSQS",
+      "In_time": "22/8/2018 00:00:00",
+      "Out_time": "22/4/2021 00:00:00",
+      "IdentifyNumbs": "444444444",
+      "Salary": "4500"
+    },
+    {
+      "ID": "5",
+      "Name": "TT",
+      "Age": "30",
+      "Phone": "259752",
+      "Address": "SQWE",
+      "In_time": "21/6/2017 00:00:00",
+      "Out_time": "21/5/2022 00:00:00",
+      "IdentifyNumbs": "555555555",
+      "Salary": "5300"
+    }
+  ]
+}

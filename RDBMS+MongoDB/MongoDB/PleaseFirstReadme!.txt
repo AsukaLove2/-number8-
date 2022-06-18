@@ -1,0 +1,1 @@
+JSON文档均由第三方软件根据MySQL导出得出，本人能力有限，因无法使用此JSON文档导入至MongoDB，因此建议使用CSV文件导入MongoDB

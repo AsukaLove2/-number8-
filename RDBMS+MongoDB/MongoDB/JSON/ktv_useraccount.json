@@ -1,0 +1,28 @@
+{
+  "RECORDS": [
+    {
+      "Name": "AA",
+      "Account": "123456789",
+      "Password": "123456",
+      "Signup_time": "12/2/2022 00:00:00",
+      "State": "Green",
+      "Moneys": "201"
+    },
+    {
+      "Name": "BB",
+      "Account": "123654978",
+      "Password": "123456",
+      "Signup_time": "11/5/2022 00:00:00",
+      "State": "Green",
+      "Moneys": "2000"
+    },
+    {
+      "Name": "CC",
+      "Account": "524568566",
+      "Password": "123456",
+      "Signup_time": "11/3/2022 00:00:00",
+      "State": "Green",
+      "Moneys": "1210"
+    }
+  ]
+}

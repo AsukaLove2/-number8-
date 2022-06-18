@@ -1,0 +1,39 @@
+{
+  "RECORDS": [
+    {
+      "ID": "1",
+      "BaseSalary": "3000",
+      "BS_Get_Time": "25/3/2022 00:00:00",
+      "YearsSalary": "2000",
+      "Get_YearsSalary_state": "Y"
+    },
+    {
+      "ID": "2",
+      "BaseSalary": "3400",
+      "BS_Get_Time": "22/2/2022 00:00:00",
+      "YearsSalary": "2000",
+      "Get_YearsSalary_state": "Y"
+    },
+    {
+      "ID": "3",
+      "BaseSalary": "3100",
+      "BS_Get_Time": "12/3/2020 00:00:00",
+      "YearsSalary": "1300",
+      "Get_YearsSalary_state": "Y"
+    },
+    {
+      "ID": "4",
+      "BaseSalary": "4500",
+      "BS_Get_Time": "15/4/2020 00:00:00",
+      "YearsSalary": "3000",
+      "Get_YearsSalary_state": "N"
+    },
+    {
+      "ID": "1",
+      "BaseSalary": "3000",
+      "BS_Get_Time": "25/4/2022 00:00:00",
+      "YearsSalary": "3000",
+      "Get_YearsSalary_state": "Y"
+    }
+  ]
+}
